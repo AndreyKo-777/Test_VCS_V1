@@ -30,7 +30,11 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-
+ManagedProjectGUID=F85D5078-EC53-4B65-B431-9AE9ABBA12F0
+VaultGUID=8B2FA780-BFA4-4F73-AD7E-1BDCBB938524
+ReleaseVaultName=07092020_Migration
+ItemGUID=F85D5078-EC53-4B65-B431-9AE9ABBA12F0
+IncludeDesignInRelease=0
 
 [Preferences]
 PrefsVaultGUID=
